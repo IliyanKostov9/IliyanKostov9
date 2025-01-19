@@ -27,7 +27,7 @@
                                         <span>created Jun 10 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">Mirror to: https://codeberg.org/iliyan-kostov/nixos-config</div>
+                                <div class="field description">A configuration files for NixOS</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">

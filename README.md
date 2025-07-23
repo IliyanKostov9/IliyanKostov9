@@ -13,7 +13,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="50">
     </a>
     <a href="https://nixos.org/">
-        <img src="https://nixos.org/logo/nixos-logo-only-hires.png" alt="NixOS" width="50">
+        <img src="https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/nix-snowflake-rainbow-featured_hu_2c3edabdd6900fed.png" alt="NixOS" width="50">
     </a>
     <a href="https://www.linux.org/pages/download/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50">
